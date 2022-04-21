@@ -1,0 +1,23 @@
+/*!********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/body.css ***!
+  \********************************************************************************************************************************************************/
+body {
+  background: yellow;
+}
+/*!*********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/page.scss ***!
+  \*********************************************************************************************************************************************************/
+.container {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.container .header {
+  height: 10vh;
+  color: white;
+  font-style: 21px;
+  background-color: black;
+}
+
+/*# sourceMappingURL=main.7d61398f4ff06cd10765.css.map*/

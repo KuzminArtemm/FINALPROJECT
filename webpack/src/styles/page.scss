@@ -1,0 +1,13 @@
+$color: black;
+
+.container {
+	height: 100vh;
+	display: flex;
+
+	.header {
+		height: 10vh;
+		color: white;
+		font-style: 21px;
+		background-color: $color;
+	}
+}
